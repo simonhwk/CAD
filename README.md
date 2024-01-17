@@ -20,6 +20,7 @@ Welcome to my repository of 3D modeling work. This collection includes a variety
   ![Waterdrop Vase](Waterdrop_Vase.png)
 
 - **Topology Optimization**
+  ![Topology Optimization](Topology_Optmization.png)
   [Topology Optimization](Topology_Optimization.pdf)
   
 ## Contributing
