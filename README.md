@@ -21,8 +21,7 @@ Welcome to my repository of 3D modeling work. This collection both functional ob
 
 - **Topology Optimization**
   ![Topology Optimization](Topology_Optmization.png)
-  [Topology Optimization](Topology_Optimization.pdf)
-  
+  [Topology Optimization (PDF)](https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf)
 
 ## Contact
 
