@@ -1,6 +1,6 @@
 # CAD Projects Showcase
 
-Welcome to my repository of 3D modeling work. This collection includes a variety of CAD files, representing both functional objects and creative designs.
+Welcome to my repository of 3D modeling work. This collection both functional objects and creative designs.
 
 ## Projects Overview
 
@@ -23,13 +23,6 @@ Welcome to my repository of 3D modeling work. This collection includes a variety
   ![Topology Optimization](Topology_Optmization.png)
   [Topology Optimization](Topology_Optimization.pdf)
   
-## Contributing
-
-Feel free to fork this repository and modify the CAD files. For any suggestions or improvements, please open a pull request or issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Contact
 
