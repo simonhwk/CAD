@@ -16,12 +16,12 @@ Welcome to my repository of 3D modeling work. This collection includes a variety
 - **Tensegrity Table**
   ![Tensegrity Table](Tensegrity_Table.png)
 
-- **Topology Optimization**
-  [Topology Optimization](Topology_Optimization.pdf)
-
 - **Waterdrop Vase**
   ![Waterdrop Vase](Waterdrop_Vase.png)
 
+- **Topology Optimization**
+  [Topology Optimization](Topology_Optimization.pdf)
+  
 ## Contributing
 
 Feel free to fork this repository and modify the CAD files. For any suggestions or improvements, please open a pull request or issue.
@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 
-For inquiries or collaborations, contact me at [myemail@example.com](mailto:myemail@example.com).
+For inquiries or collaborations, contact me at [simon.kang@columbia.edu](mailto:simon.kang@columbia.edu).
 
 ---
 
