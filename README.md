@@ -20,7 +20,7 @@ Welcome to my repository of 3D modeling work. This collection both functional ob
   ![Waterdrop Vase](Waterdrop_Vase.png)
 
 - **Syringe**
-  ![Syringe](Syringe_v2.png)Syringe_v2.PNG
+  ![Syringe](Syringe_v2.png)
 
 - **Topology Optimization**
   ![Topology Optimization](Topology_Optmization.png)
