@@ -19,6 +19,9 @@ Welcome to my repository of 3D modeling work. This collection both functional ob
 - **Waterdrop Vase**
   ![Waterdrop Vase](Waterdrop_Vase.png)
 
+- **Syringe**
+  ![Syringe](Syringe_v2.png)Syringe_v2.PNG
+
 - **Topology Optimization**
   ![Topology Optimization](Topology_Optmization.png)
   [Topology Optimization (PDF)](https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf)
