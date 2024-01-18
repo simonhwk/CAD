@@ -6,31 +6,31 @@ Welcome to my repository of 3D modeling work. This collection displays both func
 
 - **Columbia Mug**
   
-  <img src="Columbia_Mug.png" width="600">
+  <img src="Columbia_Mug.png" width="800">
 
 - **Pokeballs**
   
-  <img src="Pokeballs.png" width="600">
+  <img src="Pokeballs.png" width="800">
 
 - **Telstar Soccer Ball**
   
-  <img src="Telstar_Soccer_Ball.png" width="600">
+  <img src="Telstar_Soccer_Ball.png" width="800">
 
 - **Tensegrity Table**
   
-  <img src="Tensegrity_Table.png" width="600">
+  <img src="Tensegrity_Table.png" width="800">
 
 - **Waterdrop Vase**
   
-  <img src="Waterdrop_Vase.png" width="600">
+  <img src="Waterdrop_Vase.png" width="800">
 
 - **Syringe**
   
-  <img src="Syringe_v2.PNG" width="600">
+  <img src="Syringe_v2.PNG" width="800">
 
 - **Topology Optimization**
   
-  <img src="Topology_Optmization.png" width="600">
+  <img src="Topology_Optmization.png" width="800">
   
   [Topology Optimization (PDF)](https://github.com/simonhwk/DM-topology-optimization/blob/main/Topology%20Optimization.pdf)
 
