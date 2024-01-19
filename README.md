@@ -28,7 +28,7 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   
   <img src="Waterdrop_Vase.png" width="800">
 
-  - **Gripper**
+- **Gripper**
 
   <img src="Gripper.png" width="800">
 
