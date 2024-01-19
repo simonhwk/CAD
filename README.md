@@ -36,6 +36,10 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   
   <img src="Syringe_v2.PNG" width="800">
 
+- **Wheel Rim**
+  
+  <img src="wheel_rim.png" width="800">
+
 - **Topology Optimization**
   
   <img src="Topology_Optmization.png" width="800">
