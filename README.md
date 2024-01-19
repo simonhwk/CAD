@@ -8,6 +8,10 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   
   <img src="Columbia_Mug.png" width="800">
 
+- **iPhone Stand**
+
+  <img src="iphone_stand.png" width="800">
+
 - **Pokeballs**
   
   <img src="Pokeballs.png" width="800">
@@ -23,6 +27,10 @@ Welcome to my repository of 3D modeling work. This collection displays both func
 - **Waterdrop Vase**
   
   <img src="Waterdrop_Vase.png" width="800">
+
+  - **Gripper**
+
+  <img src="Gripper.png" width="800">
 
 - **Syringe**
   
