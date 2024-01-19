@@ -40,6 +40,10 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   
   <img src="wheel_rim.png" width="800">
 
+- **Humanoid Leg**
+  
+  <img src="humanoid_leg.png" width="800">
+
 - **Topology Optimization**
   
   <img src="Topology_Optmization.png" width="800">
