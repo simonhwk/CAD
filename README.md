@@ -35,7 +35,7 @@ Welcome to my repository of 3D modeling work. This collection displays both func
 - **Syringe**
   
   <img src="Syringe_v2.PNG" width="800">
-  <img src="Syringe_GIF.gif" width="600">
+  <img src="Syringe_GIF.gif" width="400">
 
 - **Wheel Rim**
   
