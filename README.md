@@ -37,6 +37,14 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   <img src="Syringe_v2.PNG" width="800">
   <img src="Syringe_GIF.gif" width="400">
 
+- **Ball Joint**
+
+  <img src="Ball_joint.png" width="800">
+
+- **Bevel Gear**
+  
+  <img src=" Bevel_Gear.png" width="800">
+
 - **Wheel Rim**
   
   <img src="wheel_rim.png" width="800">
