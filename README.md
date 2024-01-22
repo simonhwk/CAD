@@ -43,7 +43,7 @@ Welcome to my repository of 3D modeling work. This collection displays both func
 
 - **Bevel Gear**
   
-  <img src=" Bevel_Gear.png" width="800">
+  <img src="Bevel_Gear.png" width="800">
 
 - **Wheel Rim**
   
