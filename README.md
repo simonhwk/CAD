@@ -45,6 +45,10 @@ Welcome to my repository of 3D modeling work. This collection displays both func
   
   <img src="Bevel_Gear.png" width="800">
 
+- **Piston & Crank Shaft**
+
+  <img src="Piston_Crank_Shaft.png" width="800">
+
 - **Wheel Rim**
   
   <img src="wheel_rim.png" width="800">
